@@ -1,6 +1,6 @@
 # Predicting the next winner for "Please Take Care of My Refrigerator"
-A famous Korean reality cooking competition show (on air since Nov. 2014)
-[냉장고를 부탁해] 위너(winner) 쉐프 예측 모델
+> A famous Korean reality cooking competition show (on air since Nov. 2014)
+> [냉장고를 부탁해] 위너(winner) 쉐프 예측 모델
 
 ## Who can predict which chef will win the next cook battle?
 No one? I will give it a try.
